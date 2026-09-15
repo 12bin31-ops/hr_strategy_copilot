@@ -294,6 +294,7 @@ src/hrx/
 └── app/dashboard.py        Streamlit 5-탭 대시보드
 
 tests/                      56 tests — 데이터·검색·분석·에이전트·CLI·평가
+docs/samples/               생성 산출물 예시 (개편안 2건 + 평가 결과)
 ```
 
 ---
